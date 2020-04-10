@@ -16,7 +16,7 @@ First download your own kaggle.json file by going to the 'Account' tab of your u
 Open the final project file in [Google Colab](https://colab.research.google.com/drive/1wJbxyTvkjratU3H7LPFQ1rs3fzp5fgM6). Run all of the cells in order.
 
 
-###There are 5 sections in this collar notebook. 
+#### There are 5 sections in this collab notebook. 
 
 The first is `Downloading Data`, where the kaggle datasets are downloaded and unzipped.
 * Note that you will be prompted to upload the kaggle.json file in the first cell in order for it to download the datasets.
