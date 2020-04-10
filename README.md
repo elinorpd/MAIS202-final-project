@@ -43,5 +43,5 @@ This repository contains the scripts used to both train the model and build the 
 	* Data, final model, vectorizer, and Python scripts used to train the SGD model 
 3. templates/
 	* HTML template for landing and prediction page
-4. web_app.py
+4. webapp.py
 	* main python script to instantiate Flask server
