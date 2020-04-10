@@ -40,7 +40,7 @@ This repository contains the scripts used to both train the model and build the 
 1. deliverables/
 	* deliverables submitted to the MAIS Intro to ML Bootcamp organizers
 2. model/
-	* Data, final model, vectorizer, and Python scripts used to train the SGD model 
+	* final model, vectorizer, and Python file used to train the SGD model 
 3. templates/
 	* HTML template for landing and prediction page
 4. webapp.py
